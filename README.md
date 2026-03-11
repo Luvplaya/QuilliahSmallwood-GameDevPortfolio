@@ -12,9 +12,11 @@ I am currently studying Game Development at Full Sail University. I am passionat
 
 - [Sweet Treat Factory](https://hotfixheroes.itch.io/sweettreatactory): A team-based puzzle-arcade sorting game developed in Unreal Engine. This project helped me gain experience collaborating with others and contributing to gameplay systems.
 
-- Unreal Engine Prototype: A gameplay prototype where I experimented with player movement, mechanics, and interaction systems. This project helped me better understand how gameplay features are designed and tested.
+- [Unreal Engine Project](https://github.com/Luvplaya/Cyber_ProjectNew.git): A gameplay project where I experimented with player movement, mechanics, and interaction systems. This project helped me better understand how gameplay features are designed and tested.
 
-- C++ Game Development Project: A class project focused on building game logic and strengthening my understanding of C++ for game development.
+-[BulletTyphoon](https://github.com/HadesBDE/BulletTyphoon.git): game made with others as a team project.
+
+-[END2509-classproject](https://github.com/Luvplaya/END2509-classproject.git)
 
 ## Media / Demos
 
