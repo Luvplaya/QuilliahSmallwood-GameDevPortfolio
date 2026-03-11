@@ -10,7 +10,7 @@ I am currently studying Game Development at Full Sail University. I am passionat
 
 ## Featured Projects
 
-- Sweet Treat Factory (https://hotfixheroes.itch.io/sweettreatactory): A team-based puzzle-arcade sorting game developed in Unreal Engine. This project helped me gain experience collaborating with others and contributing to gameplay systems.
+- [Sweet Treat Factory](https://hotfixheroes.itch.io/sweettreatactory): A team-based puzzle-arcade sorting game developed in Unreal Engine. This project helped me gain experience collaborating with others and contributing to gameplay systems.
 
 - Unreal Engine Prototype: A gameplay prototype where I experimented with player movement, mechanics, and interaction systems. This project helped me better understand how gameplay features are designed and tested.
 
